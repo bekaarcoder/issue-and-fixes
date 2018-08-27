@@ -14,9 +14,9 @@
   **Resolution** - There is bug in react-native 0.56. So, some dependencies need to be downgraded.
 
     1. Uninstall react-native - `npm uninstall react-native`
-    2. Install react-native version 0.55.4 - `npm install --save reac-native@0.55.4`
-    3. Uninstall babel-preset-react-native - `npm uninstall babel-preset-react-native`
-    4. Install babel-preset-react-native version 4.0.0 - `npm install --save-dev babel-preset-react-native@4.0.0`
-    5. `npm install babel-core@6.26.3 --save`
-    6. `npm install babel-loader@7.1.5 --save`
+    1. Install react-native version 0.55.4 - `npm install --save reac-native@0.55.4`
+    1. Uninstall babel-preset-react-native - `npm uninstall babel-preset-react-native`
+    1. Install babel-preset-react-native version 4.0.0 - `npm install --save-dev babel-preset-react-native@4.0.0`
+    1. `npm install babel-core@6.26.3 --save`
+    1. `npm install babel-loader@7.1.5 --save`
 
